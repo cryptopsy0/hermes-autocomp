@@ -6,3 +6,5 @@ In your shell (bash was used for testing), add:
 if command -v hermes >/dev/null 2>&1; then
  eval "$(hermes completion bash)"
 fi
+
+the files go in your $HOME/hermes/hermes-agent
